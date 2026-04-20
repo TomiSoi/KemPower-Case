@@ -4,6 +4,9 @@ Komentorivipohjainen hotellihuoneiden valaistuksen hallintajärjestelmä, jonka 
 
 ---
 
+# Demo video
+[YouTube](https://youtu.be/shFfA8TOVLo)
+
 ### Huoneiden hallinta
 
 * Näytä kaikki huoneet (kerros, tila, nykyinen scene)
